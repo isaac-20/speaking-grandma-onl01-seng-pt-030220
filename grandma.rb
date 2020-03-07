@@ -9,6 +9,7 @@ def speak_to_grandma(phrase="Hey Grandma")
   end
 end
 speak_to_grandma("HEY GRANDMA")
+speak_to_grandma("I LOVE YOU")
   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
